@@ -4,7 +4,7 @@ This project is a movie recommendation system that suggests movies similar to a 
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Pandas
 - Matplotlib
 - Seaborn
